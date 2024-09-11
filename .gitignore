@@ -3,4 +3,3 @@
 *.tfvars
 src/*
 .idea/*
-*.tfstate
